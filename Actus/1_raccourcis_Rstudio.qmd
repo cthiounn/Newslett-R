@@ -1,6 +1,6 @@
 ---
 title: "Les raccourcis R avec Rstudio"
-date: "14/03/2025"
+date: "2025-03-14"
 author: "-"
 ---
 
