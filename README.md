@@ -11,3 +11,4 @@ Ce que vous trouverez sur newslett'R :
 **newslett'R** est le moyen idéal de recevoir des conseils pratiques et de rester à jour avec les dernières techniques et outils de R. 
 
 N'hésitez pas à partager vos astuces !
+ 
